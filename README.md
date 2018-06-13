@@ -24,4 +24,5 @@ Normalized vs Unnormalized data graphs from example1
 ![Image](unnormalized.png)
 
 Neural net predictions over labels
+
 ![Image](nn_predictions.png)
