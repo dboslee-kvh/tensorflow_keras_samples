@@ -20,5 +20,5 @@ Again I normalized all the data. The predicted output just has to be rescaled us
 Uses a different optimization algorithm called 'adam' which simliar to adaDelta
 
 Normalized vs Unnormalized data graphs
-![Image][normalized.png]
-![Image][unnormalized.png]
+![Image](normalized.png)
+![Image](unnormalized.png)
