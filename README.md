@@ -19,6 +19,6 @@ I think the large values of the labels were giving the gradient descent instabil
 Again I normalized all the data. The predicted output just has to be rescaled using the same parameters.
 Uses a different optimization algorithm called 'adam' which simliar to adaDelta
 
-Normalized vs Unnormalized data graphs
+Normalized vs Unnormalized data graphs from example1
 ![Image](normalized.png)
 ![Image](unnormalized.png)
